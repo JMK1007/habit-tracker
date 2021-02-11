@@ -37,6 +37,11 @@ button {
   padding-top: 2em;
 }
 
+.add-form {
+  margin-top: 2em;
+  margin-left: 1em;
+}
+
 .add-input {
   font-size: 2rem;
 }
@@ -96,6 +101,7 @@ button {
 .habits-reset {
   font-size: 1.5rem;
   padding: 0.2em 1em;
+  margin-left: 1em;
   background-color: green;
   color: white;
 }
